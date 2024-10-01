@@ -1,4 +1,4 @@
-# ** WebDevlopment Projects**
+# **WebDevlopment Projects**
 
 Welcome to the **WebDevlopment Projects** repository! 🎉 This collection contains various beginner-friendly projects that will help you learn WebDevlopment by building real-world applications. Each project focuses on key programming concepts to reinforce your skills. Let's code and have some fun! 🚀
 
